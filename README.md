@@ -54,18 +54,3 @@ Employee records are stored in memory and will be lost when the application is c
 
 
 
-## Contributing
-We welcome contributions to enhance the functionality and usability of the Employee Management Application. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add your feature description'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Enjoy managing your employees with the Employee Management Application! If you encounter any issues or have any questions, please open an issue or contact us directly.
